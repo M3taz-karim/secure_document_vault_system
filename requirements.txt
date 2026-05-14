@@ -1,0 +1,11 @@
+flask
+flask_sqlalchemy
+pyjwt
+pyotp
+qrcode
+bcrypt
+pillow
+cryptography
+authlib
+requests
+python-dotenv
